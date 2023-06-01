@@ -1,3 +1,3 @@
-# scrollLandingPage_7
+# splitLandingPage_7
 
 [See the example](https://phpfromkarakol.github.io/scrollLandingPage_7/)
